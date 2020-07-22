@@ -1,3 +1,5 @@
+# live demo - https://react-search-github-user.netlify.app/
+
 ## Starter Project
 
 - css provided (global styles, styled components)
